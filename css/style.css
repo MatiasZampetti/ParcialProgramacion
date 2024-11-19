@@ -35,18 +35,19 @@
 
 .descripcion {
     color: white;
-    font-size: 40px;
+    font-size: 30px;
     padding: 50px;
 }
 
 .foto {
-    height: 400px;
+    height: 200px;
+    width: auto;
 }
 
 .lista {
     color: white;
     font-size: 30px;
-    padding: 50px;
+    padding: 0 50px 50px 50px;
     display: flex;
     justify-content: center;
 }
